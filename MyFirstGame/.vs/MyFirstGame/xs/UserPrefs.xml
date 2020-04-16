@@ -1,0 +1,23 @@
+﻿<Properties StartupConfiguration="{F536D4E2-7E6F-BB40-F6EB-7C64A65B74DF}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Library/PackageCache/com.unity.probuilder@4.1.0/Runtime/Core/ColliderBehaviour.cs">
+    <Files>
+      <File FileName="Assets/Movement.cs" Line="12" Column="1" />
+      <File FileName="Assets/Movement.cs" Line="12" Column="1" />
+      <File FileName="Library/PackageCache/com.unity.probuilder@4.1.0/Runtime/Core/ColliderBehaviour.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="MyFirstGame" expanded="True" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="0ca53dc6-8a7d-485d-bdc9-84a15f6e4abc" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
